@@ -1,5 +1,7 @@
 # GitHub CLI
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/40605feda8f341f68797f55d9fa38468)](https://app.codacy.com/manual/Crypto/cli?utm_source=github.com&utm_medium=referral&utm_content=matejko0077/cli&utm_campaign=Badge_Grade_Dashboard)
+
 `gh` is GitHub on the command line, and it's now available in beta. It brings pull requests, issues, and other GitHub concepts to
 the terminal next to where you are already working with `git` and your code.
 
